@@ -1,6 +1,7 @@
 # V4A Patch Skill
 
 A skill for AI agents to generate error-free V4A patch files for `apply_patch.pl`.
+*(Why perl ? because it is on every \*nix machine without extra installation !)*
 
 ## Included Files
 
