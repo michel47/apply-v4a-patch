@@ -13,7 +13,7 @@
    ```
    optionally
    ```sh
-   ln -sf $(git rev-parse --show-toplevel)/apply-v4a-patch/scripts/apply_patch.pl $HOME/bin/
+   ln -sf $(git rev-parse --show-toplevel)/apply-v4a-patch/scripts/apply_patch.pl $HOME/bin/apply_patch
    ```
 
 2. Ensure `apply_patch.pl` has execution permissions:
