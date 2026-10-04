@@ -22,12 +22,10 @@ Or with ellipsis support:
 
 ```bash
 perl apply_patch.pl --ellipsis patch.v4a
-
+```
 
 ## Misc.
 
 - explainatory song "[The patch is a pearl](https://youtu.be/MCJ2w56VxW4)" (courtesy [Suno](https://suno.com/s/1kTqrmQrmK1rk31i) )
 - with [lyrics](bsu-the-patch_is_a_pearl.md) !
-
-```
 
